@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atacado.DAL", "Atacado.DAL\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encontro27UsandoDAL", "Encontro27UsandoDAL\Encontro27UsandoDAL.csproj", "{215D862D-F1FA-4337-B342-1D4C089E46DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtacadoServicos", "AtacadoServicos\AtacadoServicos.csproj", "{CE5EEF01-30CE-4E97-9917-E1177BC5BDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atacado.POCO", "Atacado.POCO\Atacado.POCO.csproj", "{C2724BE4-7E01-45A8-AA14-0F851C7C488F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{215D862D-F1FA-4337-B342-1D4C089E46DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{215D862D-F1FA-4337-B342-1D4C089E46DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{215D862D-F1FA-4337-B342-1D4C089E46DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5EEF01-30CE-4E97-9917-E1177BC5BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5EEF01-30CE-4E97-9917-E1177BC5BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5EEF01-30CE-4E97-9917-E1177BC5BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5EEF01-30CE-4E97-9917-E1177BC5BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2724BE4-7E01-45A8-AA14-0F851C7C488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2724BE4-7E01-45A8-AA14-0F851C7C488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2724BE4-7E01-45A8-AA14-0F851C7C488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2724BE4-7E01-45A8-AA14-0F851C7C488F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
